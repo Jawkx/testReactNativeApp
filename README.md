@@ -14,7 +14,7 @@ This repo is used by me to provide demo app and try to reproduce bug which I wil
 
 ## react-native-modal's Modal
 
-![[Using on react-native-modal](screenshots/using-on-react-native-modal.png)
+![Using on react-native-modal](screenshots/using-on-react-native-modal.png)
 
 ## Manually applying insets is working
 
